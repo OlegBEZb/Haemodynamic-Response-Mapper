@@ -6,3 +6,8 @@ VU Brain Imaging 2022. Group 16
 2. Make data description
 3. additional preprocessing, such as temporal filtering, percent signal change conversion, etc.?
 4. Switch modelling to sklearn/torch?
+
+---about 3: preprocessing:
+raw data z scored? was not!. done (var: tseries_z)
+is there slow drift in raw data? [ will be checked by lef/abdallah]
+have raw data been spacially smoothed? 
